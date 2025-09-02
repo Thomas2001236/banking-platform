@@ -1,1 +1,5 @@
+/home/thomas/myenv/banking-platform/account-service/src/main/java/com/banking/account/repository/AccountRepository.java
+/home/thomas/myenv/banking-platform/account-service/src/main/java/com/banking/account/service/AccountService.java
+/home/thomas/myenv/banking-platform/account-service/src/main/java/com/banking/account/model/Account.java
 /home/thomas/myenv/banking-platform/account-service/src/main/java/com/banking/account/App.java
+/home/thomas/myenv/banking-platform/account-service/src/main/java/com/banking/account/controller/AccountController.java

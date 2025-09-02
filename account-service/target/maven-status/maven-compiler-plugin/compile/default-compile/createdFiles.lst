@@ -1,1 +1,5 @@
+com/banking/account/service/AccountService.class
 com/banking/account/App.class
+com/banking/account/repository/AccountRepository.class
+com/banking/account/model/Account.class
+com/banking/account/controller/AccountController.class
