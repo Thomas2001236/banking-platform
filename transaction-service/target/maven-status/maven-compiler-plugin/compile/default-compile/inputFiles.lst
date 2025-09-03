@@ -1,0 +1,5 @@
+/home/thomas/myenv/banking-platform/transaction-service/src/main/java/com/banking/transaction/service/TransactionService.java
+/home/thomas/myenv/banking-platform/transaction-service/src/main/java/com/banking/transaction/controller/TransactionController.java
+/home/thomas/myenv/banking-platform/transaction-service/src/main/java/com/banking/transaction/repository/TransactionRepository.java
+/home/thomas/myenv/banking-platform/transaction-service/src/main/java/com/banking/transaction/model/Transaction.java
+/home/thomas/myenv/banking-platform/transaction-service/src/main/java/com/banking/transaction/App.java
